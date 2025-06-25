@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mohamed Taha</h1>
-<h3 align="center">I am android developer and I have 8 years from experience and I use Retrofit, JSON, RXAndroid, Databinding, Room, Navigation, Patterns(MVC, MVP , MVVM)and more.</h3>
+<h3 align="center">Flutter Developer | Senior Android Developer | Mobile Software Engineer I am a highly skilled mobile software engineer with over 2 years of experience in Flutter development and more than 5 years of expertise in Android development. My passion lies in building high-quality, scalable, and efficient mobile applications for both Android and iOS platforms using Flutter and Dart. I possess a strong foundation in Android development, working with Jetpack Compose, MVVM, Coroutines, Retrofit, and Firebase to deliver seamless, high-performance applications. My experience in Flutter extends to creating cross-platform mobile solutions, leveraging modern state management tools like Riverpod, Cubit, Bloc, and Provider for clean, maintainable, and effective code. Key Highlights: Developed 30+ Android apps, including high-profile applications for government entities. Proven ability in Flutter to develop robust cross-platform applications. Deep expertise in Android frameworks and tools such as Jetpack Compose, MVVM, Coroutines, and Retrofit. Finalist in the Google Africa Developer Scholarship and the One Million Arab Programmers initiative. Strong focus on improving app performance and ensuring maintainability with clean architecture and efficient state management.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedmohamedtaha&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmohamedtaha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedmohamedtaha" alt="mohamedmohamedtaha" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mmtahhah" target="blank"><img src="https://img.shields.io/twitter/follow/mmtahhah?logo=twitter&style=for-the-badge" alt="mmtahhah" /></a> </p>
+- 📫 How to reach me **mohamed.taha169@yahoo.com**
+
+- 📄 Know about my experiences [https://github.com/mohamedmohamedtaha/mohamedmohamedtaha/blob/main/Mohamed_Taha_Senior_Android_Developer.pdf](https://github.com/mohamedmohamedtaha/mohamedmohamedtaha/blob/main/Mohamed_Taha_Senior_Android_Developer.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mmtahhah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmtahhah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/mmtaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mmtaha" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/6194988/mohamed-mohamed-taha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/6194988/mohamed-mohamed-taha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mmtaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmtaha" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/6194988/mohamed-mohamed-taha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6194988/mohamed-mohamed-taha" height="30" width="40" /></a>
 <a href="https://kaggle.com/mmthassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mmthassan" height="30" width="40" /></a>
 </p>
 
