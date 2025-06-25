@@ -4,7 +4,7 @@
 
 In Flutter, I craft robust cross-platform solutions with clean architecture and advanced state management (Dio, Riverpod, Bloc, Cubit, Provider, Hive). I've delivered 40+ Android apps, including key projects for government organizations..</h2>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedmohamedtaha)](https://github.com/mohamedmohamedtaha/github-readme-activity-graph)
+#[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedmohamedtaha)](https://github.com/mohamedmohamedtaha/github-readme-activity-graph)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedmohamedtaha&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmohamedtaha" /> </p>
 
