@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mohamed Taha</h1>
 <h3 align="center">Flutter Developer | Senior Android Developer | Mobile Software Engineer</h3>
-  <h3>I’m a passionate mobile engineer with over 5 years in Android development and 2+ years in Flutter. I specialize in building scalable, high-performance apps for both Android and iOS using modern tools like Jetpack Compose, MVI, MVVM, Coroutines, Ktor, Retrofit, Koin, Hilt, Dagger2, clean architecture, Firebase, DataStore, shared preferences, Coil, and Dart.
+  <h2>I’m a passionate mobile engineer with over 5 years in Android development and 2+ years in Flutter. I specialize in building scalable, high-performance apps for both Android and iOS using modern tools like Jetpack Compose, MVI, MVVM, Coroutines, Ktor, Retrofit, Koin, Hilt, Dagger2, clean architecture, Firebase, DataStore, shared preferences, Coil, and Dart.
 
-In Flutter, I craft robust cross-platform solutions with clean architecture and advanced state management (Dio, Riverpod, Bloc, Cubit, Provider, Hive). I've delivered 40+ Android apps, including key projects for government organizations..</h3
+In Flutter, I craft robust cross-platform solutions with clean architecture and advanced state management (Dio, Riverpod, Bloc, Cubit, Provider, Hive). I've delivered 40+ Android apps, including key projects for government organizations..</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedmohamedtaha&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedmohamedtaha" /> </p>
 
